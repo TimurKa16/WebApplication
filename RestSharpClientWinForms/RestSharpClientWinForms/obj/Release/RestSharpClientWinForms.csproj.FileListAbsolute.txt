@@ -1,0 +1,15 @@
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Release\RestSharpClientWinForms.exe.config
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Release\RestSharpClientWinForms.exe
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Release\RestSharpClientWinForms.pdb
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Release\Newtonsoft.Json.dll
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Release\RestSharp.dll
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Release\Newtonsoft.Json.xml
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Release\RestSharp.xml
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Release\RestSharpClientWinForms.Properties.Resources.resources
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Release\RestSharpClientWinForms.csproj.GenerateResource.cache
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Release\RestSharpClientWinForms.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Release\RestSharpClientWinForms.csproj.CopyComplete
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Release\RestSharpClientWinForms.exe
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Release\RestSharpClientWinForms.pdb
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Release\RestSharpClientWinForms.csproj.AssemblyReference.cache
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Release\RestSharpClientWinForms.RestClientForm.resources

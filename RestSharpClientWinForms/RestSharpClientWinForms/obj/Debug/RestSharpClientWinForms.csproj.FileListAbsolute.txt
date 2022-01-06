@@ -1,0 +1,15 @@
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Debug\RestSharpClientWinForms.exe.config
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Debug\RestSharpClientWinForms.exe
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Debug\RestSharpClientWinForms.pdb
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Debug\RestSharp.dll
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\bin\Debug\RestSharp.xml
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Debug\RestSharpClientWinForms.csproj.AssemblyReference.cache
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Debug\RestSharpClientWinForms.Properties.Resources.resources
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Debug\RestSharpClientWinForms.csproj.GenerateResource.cache
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Debug\RestSharpClientWinForms.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Debug\RestSharpClientWinForms.csproj.CopyComplete
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Debug\RestSharpClientWinForms.exe
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Debug\RestSharpClientWinForms.pdb
+C:\Users\timur\source\repos\WebApplication\RestSharpClientWinForms\RestSharpClientWinForms\obj\Debug\RestSharpClientWinForms.RestClientForm.resources
