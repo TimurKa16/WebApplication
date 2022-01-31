@@ -5,7 +5,7 @@
 I learned ASP.NET Core
 
 It seems as a powerful, perspective, fast and elegant tool to create web apps.
-Here I have learned MVC structure and various related frameworks (Identity, Entity, Angular).
+Here I have learned MVC structure and various related frameworks (Identity, Entity).
 There is released an API. With an API I developed some kind of a messenger.
 
 There are two projects: client and server.
